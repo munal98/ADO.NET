@@ -1,0 +1,34 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.CategoryForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductAddForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductDeleteForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ETradeForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductListForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductUpdateForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.Extras.SQLdbServiceTestForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.StoreForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_ADO.NET_with_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_ADO.NET_with_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.exe.config
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.exe
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\bin\Debug\028_ADO.NET_with_WindowsForms.pdb
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.CategoryForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductAddForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductDeleteForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ETradeForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductListForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.ProductUpdateForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.Extras.SQLdbServiceTestForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.Properties.Resources.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\_028_ADO.NET_with_WindowsForms.StoreForm.resources
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_8_ADO.NET_with_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_ADO.NET_with_WindowsForms.exe
+C:\Users\user\Desktop\028_8_ADO.NET_with_WindowsForms\obj\Debug\028_ADO.NET_with_WindowsForms.pdb
